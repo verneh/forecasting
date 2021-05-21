@@ -309,6 +309,6 @@ write.xlsx(new, "Predict.xls", row.names=FALSE, append=TRUE)
 
 ```
 
-In the end. save files are predict no temp final and predict with temp.
+
 
 
